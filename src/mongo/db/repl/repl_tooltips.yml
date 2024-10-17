@@ -376,4 +376,3 @@ ftdc serverStatus metrics repl waiters opTime: |
     Things this can indicate:
     Reported from: [serverStatus](https://www.mongodb.com/docs/manual/reference/command/serverStatus/) command
     Code link: [1](http://c41e87779e5dc89aa2f939d6a7b52aea1a650740), [2](https://github.com/mongodb/mongo/blob/c41e87779e5dc89aa2f939d6a7b52aea1a650740/src/mongo/db/repl/replication_coordinator_impl.cpp#L518-L519), [3](https://github.com/mongodb/mongo/blob/c41e87779e5dc89aa2f939d6a7b52aea1a650740/src/mongo/db/repl/replication_coordinator_impl.h#L1956-L1962)
-
